@@ -184,6 +184,6 @@ author:
 widget: 
  press: 
    show: true
-   text: "add For more please contact: "
+   text: "for more information please contact: "
    info: "Robert Carpenter"
-   url: "carplaxr@icloud.com"
+   url: "mailto:carplaxr@icloud.com"
